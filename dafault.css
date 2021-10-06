@@ -23,7 +23,7 @@
   color: #ffffff;
   font-family: Arial;
   font-size: 18px;
-  width: 240px;
+  width: 270px;
   height: auto;
   text-align: center;
   text-decoration: none;
@@ -33,7 +33,7 @@
 }
 
 .buttoncontainer {
-  height: 80px;
+  height: 70px;
   position: relative;
 }
 
@@ -44,4 +44,14 @@
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+#SteveJobwords{
+  border: 1pt solid rgb(163, 163, 163);
+  border-radius: 5px;
+  background-color: rgb(235, 235, 235);
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 14px;
+  text-align: center;
 }
